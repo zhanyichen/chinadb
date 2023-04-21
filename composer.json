@@ -1,0 +1,18 @@
+{
+    "name": "zhanyichen/chinadb",
+    "description": "ChinaDB",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhanyichen\\Chinadb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhanyichen",
+            "email": "38627724@qq.com"
+        }
+    ],
+    "require": {}
+}
