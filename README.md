@@ -1,5 +1,6 @@
 ## ChianDB
 * Dameng
-* Gbase
 
-Supper ^TP6.0
+
+Support ^TP5.0
+
