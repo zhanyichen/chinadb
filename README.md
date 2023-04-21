@@ -6,7 +6,7 @@
 * ^Tp6
 
 ### Use
-* composer require zhanyichen/chinadb
+* composer require zhanyichen/chinadb:">6.0.0"
 
-* git https://github.com/zhanyichen/chinadb.git
-  cp /vendor/zhanyichen/chinadb
+* git clone -b TP6 https://github.com/zhanyichen/chinadb.git
+*  cp /vendor/zhanyichen/chinadb
