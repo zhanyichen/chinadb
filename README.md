@@ -3,7 +3,7 @@
 * GBase
 
 ### support
-* ^Tp6
+* ^Tp8
 
 ### Use
 * composer require zhanyichen/chinadb:">8.0.0"
